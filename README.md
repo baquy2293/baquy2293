@@ -1,4 +1,10 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trịnh Bá Quý
+====================================================================================================================================
 
+* 🌍  I'm based in Hà Nội
+* 🖥️  See my portfolio at [Trang web](http://baquy.id.vn)
+* ✉️  You can contact me at [op3477662@gmail.com](mailto:op3477662@gmail.com)
+* 🧠  I'm learning Academy of cryptography techniques
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tbq.2293) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bq_2209/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%C3%BD-b%C3%A1-06189b2b9/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@baquy7328) 
 
